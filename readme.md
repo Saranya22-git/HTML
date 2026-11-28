@@ -20,9 +20,10 @@ Hey everybody!!!
 
 ### **What is the Internet?**
 
-*The **Internet** is a worldwide network of interconnected computers and devices that communicate with each other and share information.*
+*The Internet is a worldwide network of interconnected computers and devices that communicate with each other and share information.*
 
-*For example:*
+**Examples:**
+
 - *Watching YouTube videos*
 - *Sending WhatsApp messages*
 - *Browsing Google*
@@ -45,7 +46,22 @@ Hey everybody!!!
 - *The server processes the request and sends information back*
 - *Your browser displays the Google webpage*
 
+---
+
 ## **What is the World Wide Web (WWW)?**
+
+*The World Wide Web is a collection of interconnected webpages and websites that we access through the Internet.*
+
+**Examples:**
+
+- *Google*
+- *Amazon*
+- *Wikipedia*
+- *YouTube*
+
+*The Internet and WWW are not the same thing.*
+
+---
 
 ## **What is a Website?**
 
