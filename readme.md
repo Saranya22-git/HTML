@@ -7,9 +7,9 @@ Hey everybody!!!
 - [**Web Development Foundations**](#web-development-foundations)
   - [**Introduction to the Web**](#introduction-to-the-web)
     - [**What is the Internet?**](#what-is-the-internet)
-  - [**What is the World Wide Web (WWW)?**](#what-is-the-world-wide-web-www)
-  - [**What is a Website?**](#what-is-a-website)
-  - [**What is a Web Application?**](#what-is-a-web-application)
+    - [**What is the World Wide Web (WWW)?**](#what-is-the-world-wide-web-www)
+    - [**What is a Website?**](#what-is-a-website)
+    - [**What is a Web Application?**](#what-is-a-web-application)
   - [**How does a website work?**](#how-does-a-website-work)
   - [**What is a Web Browser?**](#what-is-a-web-browser)
 
@@ -48,7 +48,7 @@ Hey everybody!!!
 
 ---
 
-## **What is the World Wide Web (WWW)?**
+### **What is the World Wide Web (WWW)?**
 
 *The World Wide Web is a collection of interconnected webpages and websites that we access through the Internet.*
 
@@ -63,9 +63,9 @@ Hey everybody!!!
 
 ---
 
-## **What is a Website?**
+### **What is a Website?**
 
-## **What is a Web Application?**
+### **What is a Web Application?**
 
 ## **How does a website work?**
 
