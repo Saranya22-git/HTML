@@ -9,6 +9,7 @@ Hey everybody!!!
     - [**What is the Internet?**](#what-is-the-internet)
     - [**What is the World Wide Web (WWW)?**](#what-is-the-world-wide-web-www)
     - [**What is a Website?**](#what-is-a-website)
+    - [**What is a Webpage?**](#what-is-a-webpage)
     - [**What is a Web Application?**](#what-is-a-web-application)
   - [**How does a website work?**](#how-does-a-website-work)
   - [**What is a Web Browser?**](#what-is-a-web-browser)
@@ -64,6 +65,43 @@ Hey everybody!!!
 ---
 
 ### **What is a Website?**
+
+*A website is a collection of related web pages connected together under a common domain name and accessible through the Internet.*
+
+**Examples:**
+
+- *Google*
+- *Wikipedia*
+- *Amazon*
+- *YouTube*
+
+*Consider an educational website*
+- *Home*
+- *About Us*
+- *Courses*
+- *Contact Us*
+- *Login*
+
+*Each of these can be an individual webpage. Together they form a website*
+
+---
+
+### **What is a Webpage?**
+
+*A webpage is a single document on the World Wide Web that can be viewed using a web browser.*
+
+*For example, When you open the About Us page of a college website, you are viewing one webpage.*
+
+*A webpage can contain*
+- *Text*
+- *Images*
+- *Videos*
+- *Links*
+- *Tables*
+- *Forms*
+- *Buttons*
+
+---
 
 ### **What is a Web Application?**
 
